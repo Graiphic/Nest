@@ -6,6 +6,16 @@
 
 **Graiphic presents NEST**, a groundbreaking architecture enabling buildings to **learn, predict, and optimize their own energy behavior** — autonomously, locally, and efficiently.
 
+<p align="center">
+  <a href="./Doc/NEST_Whitepaper_1.0.pdf">
+    <img src="./img/NEST_Whitepaper.PNG" alt="NEST Whitepaper Cover" width="750"/>
+  </a>
+</p>
+
+<p align="center">
+  <b><a href="./Doc/NEST_Whitepaper_1.0.pdf">📘 Read the full NEST Whitepaper (PDF)</a></b>
+</p>
+
 ---
 
 ## ⚡ Vision
@@ -14,7 +24,7 @@ Buildings account for **around 40% of global energy consumption** and a signific
 Traditional Building Management Systems (BMS) remain **static**, **cloud-dependent**, and **unable to adapt** to evolving environmental and occupancy conditions.
 
 **NEST (Next Energy Smart Twin)** changes this paradigm.  
-It fuses **Generative AI**, **Data-Driven Digital Twins**, and **Reinforcement Learning** into a unified, **self-learning and sovereign AI** that allows buildings to **understand themselves** and **adapt continuously**.
+It merges **Generative AI**, **Data-Driven Digital Twins**, and **Reinforcement Learning** into a unified, **self-learning and sovereign AI** that allows buildings to **understand themselves** and **adapt continuously**.
 
 ---
 
@@ -111,8 +121,9 @@ Join us in building the **universal cockpit for sovereign, energy-aware AI**.
 ## 📄 Documentation
 
 - 📘 [NEST Whitepaper 1.0 (PDF)](./Doc/NEST_Whitepaper_1.0.pdf)  
-- 🖼️ [Orville Chart (PNG)](./img/Orvillechart_GTB.png)  
-- 🧭 [Logo NEST (SVG)](./img/logo%20nest.svg)
+- 🖼️ [Whitepaper Cover (PNG)](./img/NEST_Whitepaper.PNG)  
+- 🧭 [Logo NEST (SVG)](./img/logo%20nest.svg)  
+- 📊 [Orville Chart (PNG)](./img/Orvillechart_GTB.png)
 
 ---
 

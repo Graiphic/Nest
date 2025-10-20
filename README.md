@@ -67,7 +67,7 @@ All computation, storage, and control are embedded **locally**, ensuring:
 | Infrastructure | Cloud-dependent | Cloud-assisted | **Fully local** |
 | Intelligence | Manual tuning | Partial prediction | **Full cognitive loop** |
 | Energy Savings | <10 % | 15–20 % | **25–35 %** |
-| ROI | >36 months | 30 months | **<24 months** |
+| ROI | >36 months | 30 months | **<12 months** |
 
 ---
 

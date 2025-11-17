@@ -7,13 +7,13 @@
 Graiphic presents **NEST**, an advanced architecture enabling buildings to learn, predict, and optimize their energy behaviour — autonomously, locally, and efficiently.
 
 <p align="center">
-  <a href="./Doc/NEST_Whitepaper_1.0.pdf">
+  <a href="./Doc/NEST_Whitepaper_1.1.pdf">
     <img src="./img/NEST_Whitepaper.PNG" alt="NEST Whitepaper Cover" width="750"/>
   </a>
 </p>
 
 <p align="center">
-  <b><a href="./Doc/NEST_Whitepaper_1.0.pdf">Read the full NEST Whitepaper (PDF)</a></b>
+  <b><a href="./Doc/NEST_Whitepaper_1.1.pdf">Read the full NEST Whitepaper (PDF)</a></b>
 </p>
 
 ---

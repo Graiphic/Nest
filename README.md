@@ -115,15 +115,6 @@ https://www.graiphic.io
 
 ---
 
-## Documentation
-
-- NEST Whitepaper 1.0 (PDF): ./Doc/NEST_Whitepaper_1.0.pdf  
-- Whitepaper Cover (PNG): ./img/NEST_Whitepaper.PNG  
-- NEST Logo (SVG): ./img/logo%20nest.svg  
-- Orville Chart (PNG): ./img/Orvillechart_GTB.png  
-
----
-
 ## License
 
 Distributed under the MIT License.  

@@ -1,3 +1,9 @@
+<div class="nest-pages-link">
+  <a href="https://graiphic.github.io/Nest/">
+    <img src="./assets/open-github-pages-banner.svg" alt="Open the GitHub Pages version" />
+  </a>
+</div>
+
 <p align="center">
   <img src="./img/logo%20nest.svg" alt="NEST Logo" width="260"/>
 </p>
